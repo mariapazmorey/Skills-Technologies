@@ -10,5 +10,5 @@ Areas of Expertise
 #### *Learning / Under Development:*
 - **Programming Languages:** HTML, CSS
 - **Frameworks:** TBD
-- **Tools:** Figma, GitHub, 
+- **Tools:** Figma, GitHub
 - **Technologies:** TBD
